@@ -1,0 +1,5 @@
+print("===== My Info Card =====")
+name = input("Name:")
+age = input("Age:")
+subject = input("Subject:")
+print("========================")
