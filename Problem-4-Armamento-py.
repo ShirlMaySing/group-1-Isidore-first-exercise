@@ -1,0 +1,7 @@
+# 1. Using the sep parameter
+print("Python", "is", "fun", sep=" - ")
+
+# 2. Using the end parameter
+print("Loading", end=" ")
+print("...", end=" ")
+print("Done!")
